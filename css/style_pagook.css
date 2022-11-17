@@ -1,0 +1,151 @@
+.tarjeta{
+    position: relative;
+    right: -200px;
+}
+.sin {
+    text-decoration: none;
+}
+
+.qr {
+    position: relative;
+    top: 30px;
+    right: -330px; 
+}
+
+.ticket {
+    position: relative;
+    top: -50px;
+    right: -100px; 
+    color: #0C0C0A;
+    font-family: 'Nunito', sans-serif;
+}
+
+.encuesta {
+    position: relative;
+    top: -50px;
+    right: -30px;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.centrado_logo {
+    position: relative;
+    top: 30px;
+    right: -80px;
+}
+
+.acercar {
+    position: relative;
+    top: -100px;
+}
+
+
+.acercar3 {
+    position: relative;
+    top: 170px;
+}
+
+
+
+.ham_1 {
+    position: relative;
+    top: 20px;
+    right: 300px;
+}
+
+.combo1 {
+    position: relative;
+    top: -70px;
+    right: 120px;
+}
+
+.combo2 {
+    position: relative;
+    top: -120px;
+    right: -200px;
+}
+
+.combo3 {
+    position: relative;
+    top: -170px;
+    right: -300px;
+}
+
+.boton_col {
+    background-color: #FFA800;
+}
+
+
+.color1 {
+    color: #fff;
+}
+
+.color2 {
+    color: #0C0C0A;
+}
+
+.letra {
+    background: #fff;
+}
+
+.letraTitulo {
+    color: #FFA800;
+    font-family: 'Nunito', sans-serif;
+}
+
+.espacio1 {
+    padding-top: 15%;
+}
+
+.espacio2 {
+    padding-top: 100px;
+}
+
+/* segunda parte */
+
+.fondo {
+    background: #F3F0E1;
+}
+
+
+.sin {
+    text-decoration: none;
+}
+
+.boton_col {
+    background-color: #FFA800;
+}
+
+.boton_col2 {
+    background-color: #C5C3C3;
+}
+
+.letra {
+    background: #fff;
+}
+
+.letraTitulo {
+    color: #FF0000;
+    font-family: 'Nunito', sans-serif;
+}
+
+.botonRojo {
+    background-color: #FF0000;
+}
+
+.botones{
+    position: relative;
+    top: -170px;
+}
+
+.espacio1 {
+    padding-top: 15%;
+}
+
+.boton_centro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

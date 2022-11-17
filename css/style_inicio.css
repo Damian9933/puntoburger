@@ -1,0 +1,32 @@
+.sin {
+    text-decoration: none;
+}
+.centrado {
+    text-align: center;
+}
+.fondo {
+    background: #F3F0E1;
+}
+
+
+.boton_col {
+    background-color: #FFA800;
+}
+
+
+.color1 {
+    color: #fff;
+}
+
+.letra {
+    background: #fff;
+}
+
+.letraTitulo {
+    color: #FFA800;
+    font-family: 'Nunito', sans-serif;
+}
+
+.espacio1{
+    padding-top: 15%;
+}

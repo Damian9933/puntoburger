@@ -1,45 +1,44 @@
-html{
-    overflow-x: hidden;
+.fondo {
+    background: #F3F0E1;
 }
 
-body {
-    background: #ec008c;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right,  #ec008c, #fc6767);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #ec008c, #fc6767 ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
+/* .fondo_login{
+    background-image: url("/img/fondo_3.jpg");
+    background-repeat: none;
+    max-height: 100%;
+    height: auto;
+    background-repeat: none;
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+} */
 
+.sin {
+    text-decoration: none;
 }
 
-.banner{
-    width: 100%;
-    height: 600px;
+.boton_col {
+    background-color: #FFA800;
 }
-/* .card img {
-    max-height: 525px ;
-    max-width: 350px;
-}  */
-
-.footer{
-    color: #fff;
-    font-size: 14px;
-    text-align: center;
+.boton_col2 {
+    background-color: #C5C3C3;
 }
 
-.espacio {
-    margin-top: 20px;
-}
-.cerveza {
-    height: 845px;
+.letra {
+    background: #fff;
 }
 
-.ron {
-    height: 400px;
+.letraTitulo {
+    color: #FF0000;
+    font-family: 'Nunito', sans-serif;
 }
 
-.hambur {
-    height: 295px;
+.espacio1{
+    padding-top: 15%;
 }
 
-.pos {
-    height: 350px;
+.boton_centro {
+    display:flex;
+    align-items: center;
+    justify-content:center;
 }

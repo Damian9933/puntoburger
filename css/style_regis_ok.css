@@ -1,0 +1,118 @@
+.sin {
+    text-decoration: none;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.centrado_logo {
+    position: relative;
+    right: -80px;
+}
+
+.centrado_usu {
+    position: relative;
+    top: 37px;
+    right: 33px;
+}
+
+.centrado_arroba {
+    position: relative;
+    top: 35px;
+    right: 40px;
+}
+
+.centrado_contra{
+    position: relative;
+    top: 35px;
+    right: 29px;
+}
+
+.centrado_google{
+    position: relative;
+    top: 30px;
+    right: -5px;
+}
+
+.centrado_insta{
+    position: relative;
+    top: 40px;
+    right: 4px;
+}
+
+.fondo {
+    background: #F3F0E1;
+}
+
+
+.boton_col {
+    background-color: #FFA800;
+}
+
+.boton_col1 {
+    background-color: #fff;
+}
+
+
+.color1 {
+    color: #fff;
+}
+
+.color2 {
+    color: #0C0C0A;
+}
+
+.letra {
+    background: #fff;
+}
+
+.letraTitulo {
+    color: #FFA800;
+    font-family: 'Nunito', sans-serif;
+}
+
+.espacio1{
+    padding-top: 15%;
+}
+
+.espacio2{
+    padding-top: 10px;
+}
+
+/* segunda parte */
+
+.fondo {
+    background: #F3F0E1;
+}
+
+
+.sin {
+    text-decoration: none;
+}
+
+.boton_col {
+    background-color: #FFA800;
+}
+.boton_col2 {
+    background-color: #C5C3C3;
+}
+
+.letra {
+    background: #fff;
+}
+
+.letraTitulo {
+    color: #FF0000;
+    font-family: 'Nunito', sans-serif;
+}
+
+.espacio1{
+    padding-top: 15%;
+}
+
+.boton_centro {
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
